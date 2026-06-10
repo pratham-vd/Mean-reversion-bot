@@ -1,5 +1,3 @@
-## dev/creator = tubakhxn
-
 # Mean Reversion Trading System
 
 This project is a Python-based backtesting system for a mean reversion trading strategy. It fetches historical price data (e.g., stocks or crypto), applies a mean reversion logic using z-score, simulates trades with transaction costs, and visualizes results with key performance metrics.
